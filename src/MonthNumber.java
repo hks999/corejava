@@ -8,7 +8,7 @@ public class MonthNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the month in number");
-        int Month = sc.nexhttps://github.com/hks999/corejava.git tInt();
+        int Month = sc.nex!https://github.com/hks999/corejava.git tInt();
         try {
         }catch (InputMismatchException e) {
             System.err.println("Number must be an integer." + e);
