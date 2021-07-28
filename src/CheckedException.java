@@ -16,5 +16,5 @@ public class CheckedException{
         System.out.println("Exception: " + e);
     }
 
-    }
+    }:
 
