@@ -1,6 +1,6 @@
 //Throwable exception
 
-public class Junk {
+public class Junk {gi
     public static void main(String args[]) {
         try {
             a();
