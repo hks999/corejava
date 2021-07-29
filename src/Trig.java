@@ -19,9 +19,7 @@ public class Trig {
     public static void main(String[] args) {
         try {
 
-
-
-            String X = "30";
+            String X = "";
             double degrees = Double.parseDouble(X);
             double radians = Math.toRadians(degrees);
 
